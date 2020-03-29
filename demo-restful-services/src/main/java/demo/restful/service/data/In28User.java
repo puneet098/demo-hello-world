@@ -8,11 +8,13 @@ import java.util.Date;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
 
+import org.springframework.hateoas.RepresentationModel;
+
 /**
  * @author user
  *
  */
-public class In28User {
+public class In28User extends RepresentationModel<In28User>{
 	
 	private Integer id;
 	@Size(min=2,message="name should have atleast 2 Characters")

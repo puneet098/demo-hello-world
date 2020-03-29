@@ -1,4 +1,4 @@
-package demo.restful.service.data;
+package demo.restful.service;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,6 +6,8 @@ import java.util.Iterator;
 import java.util.List;
 
 import org.springframework.stereotype.Component;
+
+import demo.restful.service.data.In28User;
 
 @Component
 public class UserService {
