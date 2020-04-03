@@ -6,4 +6,5 @@ C:\Users\user\git\demo-hello-world\demo-restful-services\src\main\java\demo\rest
 C:\Users\user\git\demo-hello-world\demo-restful-services\src\main\java\demo\restful\service\DemoRestfulServicesApplication.java
 C:\Users\user\git\demo-hello-world\demo-restful-services\src\main\java\demo\restful\service\user\UserDAOService.java
 C:\Users\user\git\demo-hello-world\demo-restful-services\src\main\java\demo\restful\service\exception\CustomizedResponseEntityExceptionHandler.java
+C:\Users\user\git\demo-hello-world\demo-restful-services\src\main\java\demo\restful\service\SwaggerConfig.java
 C:\Users\user\git\demo-hello-world\demo-restful-services\src\main\java\demo\restful\service\user\UserResource.java
