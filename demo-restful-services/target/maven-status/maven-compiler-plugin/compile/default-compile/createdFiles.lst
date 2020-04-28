@@ -1,10 +1,16 @@
 demo\restful\service\user\UserNotFoundException.class
 demo\restful\service\exception\CustomizedResponseEntityExceptionHandler.class
 demo\restful\service\user\User.class
+demo\restful\service\filtering\FilteringController.class
 demo\restful\service\exception\ExceptionResponse.class
 demo\restful\service\DemoRestfulServicesApplication.class
 demo\restful\service\helloworld\HelloWorldController.class
+demo\restful\service\user\UserRepository.class
+demo\restful\service\filtering\SomeBean.class
+demo\restful\service\user\PostRepository.class
 demo\restful\service\helloworld\HelloWorldBean.class
 demo\restful\service\SwaggerConfig.class
 demo\restful\service\user\UserResource.class
+demo\restful\service\user\UserJPAResource.class
+demo\restful\service\user\Post.class
 demo\restful\service\user\UserDAOService.class
